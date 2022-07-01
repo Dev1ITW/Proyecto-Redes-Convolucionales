@@ -1,0 +1,18 @@
+700 epocas
+
+(245,200,100,50,10) -> nodos por capa
+
+86.40% test
+
+91.32% train
+
+=========
+Pesos Guardados
+53 20 76 82 94 52 47 58 103 95 
+las buenas son: 4320.0
+las malas son: 680.0
+86.40
+89 21 80 95 115 54 55 95 151 113 
+las buenas son: 9132.0
+las malas son: 868.0
+91.32

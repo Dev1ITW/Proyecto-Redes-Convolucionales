@@ -1,0 +1,17 @@
+Epoca:1000, pesos entrenados de P3 245, 100 epocas
+
+Test
+max X: 1.0792456454918034
+max Y: 1.0
+3 1 2 2 4 2 1 0 10 1 
+las buenas son: 74.0
+las malas son: 26.0
+74.00
+
+Train
+max X: 0.9693263319672131
+max Y: 1.0
+1 0 0 1 1 0 0 0 20 0 
+las buenas son: 177.0
+las malas son: 23.0
+88.50

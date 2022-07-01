@@ -1,0 +1,5 @@
+300 epocas
+0.05 ratio
+parametros (245,200,100,50,10)
+test 84.72
+train 88.01
